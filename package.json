@@ -1,0 +1,14 @@
+{
+  "name": "docker-vscode-clojure-app",
+  "version": "1.0.0",
+  "description": "A clojure-script app in a VS Code enabled Docker container.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shadow-cljs": "^2.11.4"
+  }
+}
